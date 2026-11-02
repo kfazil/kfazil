@@ -12,16 +12,16 @@ enquiries, for clients in Jaipur, across India and abroad.
 
 ### What I work with
 
-| Area           | Tools                                                                                        |
-| -------------- | -------------------------------------------------------------------------------------------- |
-| Frontend       | Next.js, React, TypeScript, Tailwind CSS, animations, Figma to code                          |
-| Backend        | Node.js (NestJS, Express), Laravel / PHP, Python                                             |
-| Databases      | MySQL, PostgreSQL, MongoDB, Redis                                                            |
-| WordPress      | Elementor, custom themes, WooCommerce, plugin development and modifications                  |
-| AI             | Claude API and Claude Code, agents and automation, speech, audio, video and image processing |
-| Web3           | Smart contracts, wallets and multichain apps, MPC / TSS signing                              |
-| Cloud & DevOps | AWS, Linux, NGINX, Docker, CI/CD, Cloudflare                                                 |
-| Also           | Chrome extensions, headless CMS and static sites                                             |
+| Area           | Tools                                                                                             |
+| -------------- | ------------------------------------------------------------------------------------------------- |
+| Frontend       | Next.js, React, TypeScript, Tailwind CSS, animations, Figma to code                               |
+| Backend        | Node.js (NestJS, Express), Laravel / PHP, Python                                                  |
+| Databases      | MySQL, PostgreSQL, MongoDB, Redis                                                                 |
+| WordPress      | Elementor, custom themes, WooCommerce, plugin development and modifications                       |
+| AI             | Claude API and Claude Code, agents and automation, Whisper, ffmpeg, OSINT tools, image processing |
+| Web3           | Smart contracts, wallets and multichain apps, MPC / TSS signing                                   |
+| Cloud & DevOps | AWS, Linux, NGINX, Docker, CI/CD, Cloudflare                                                      |
+| Also           | Chrome extensions, headless CMS and static sites                                                  |
 
 ### Get in touch
 
