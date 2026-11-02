@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi, I'm Fazil 👋
 
-<!--
-**kfazil/kfazil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web developer in Jaipur, India. I build websites and web apps that bring businesses more
+enquiries, for clients in Jaipur, across India and abroad.
 
-Here are some ideas to get you started:
+- 🛠️ Building websites since 2017
+- 💼 Senior developer at [Brubyte](https://brubyte.com), working on MyAIIdentity (AI identity
+  verification), BaseBuy (e-commerce) and Smart Exchange (crypto tools)
+- 🌐 Client work: business websites, landing pages, web apps and website care
+- 📝 Short "One-Minute Fix" tips from real projects: [fazilkhan.com/tips](https://fazilkhan.com/tips)
+- 🎓 I help students and beginners find their path into software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I work with
+
+`Next.js` `React` `TypeScript` `Node.js` `WordPress` `Elementor` `Cloudflare` `Web3`
+
+### Get in touch
+
+Need a website, or stuck on one? [fazilkhan.com](https://fazilkhan.com) ·
+[LinkedIn](https://www.linkedin.com/in/kfazil) · fk.fazilkhan@gmail.com
